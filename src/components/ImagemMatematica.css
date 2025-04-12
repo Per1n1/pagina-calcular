@@ -1,0 +1,22 @@
+.imagens-matematica {
+  display: flex;
+  justify-content: flex-end; /* Alinha a imagem à direita */
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  padding: 20px;
+}
+
+.imagem-crianca {
+  width: 50%;
+  max-width: 30%;
+  height: auto;
+  max-height: 30%;
+  margin-right:auto; /* Empurra a imagem para a esquerda */
+  border-radius: 10px;
+}
+
+.sigla-calcular {
+  width: 50%;
+  height: auto;
+}
